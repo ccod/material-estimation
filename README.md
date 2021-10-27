@@ -1,3 +1,8 @@
+# Material Estimation Project
+
+quickly allows users to run calculations to help
+make material estimations for their construction project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
