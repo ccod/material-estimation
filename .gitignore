@@ -11,6 +11,9 @@
 # production
 /build
 
+# TODO: sort this out
+/src/config.js
+
 # misc
 .DS_Store
 .env.local
